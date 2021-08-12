@@ -1,0 +1,14 @@
+# Ignore basically everything. We can whitelist things later as we add them!
+# This repo (and ALL data it contains) is backed up physically on another SSD!
+*Temp
+*Library
+*Logs
+*Packages
+*ProjectSettings
+*.meta
+*.asset
+*.unity
+*.physicMaterial
+*.mat
+*.prefab
+*.idea
